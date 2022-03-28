@@ -1,0 +1,25 @@
+{
+  "name": "truffle-unbox-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuedePritch/React_Dapp.git"
+  },
+  "author": "JamesPritchard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SuedePritch/React_Dapp/issues"
+  },
+  "homepage": "https://github.com/SuedePritch/React_Dapp#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0"
+  }
+}
